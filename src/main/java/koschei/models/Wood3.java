@@ -10,7 +10,7 @@ public class Wood3 {
 
     @Autowired
     public Wood3(Rabbit4 rabbit) {
-        this.rabbit = rabbit;
+         this.rabbit = rabbit;
     }
 
     @Override
